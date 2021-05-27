@@ -1,6 +1,8 @@
 import numpy as np
 from math import inf as i
 
+#Thuật toán tìm đường đi ngắn nhất trong mạng hình sao
+
 
 #Nhập ma trận dường đi ( hoặc giá, băng thông..)
 
